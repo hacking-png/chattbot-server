@@ -1,0 +1,25 @@
+                          SERVER
+server es un chattbot que aprende de ti lo que el no sabe contestar lo cojera de la siguiente palabra que escribas claro no es lo unico que ase
+-Puedes decirle que te diga la hora
+-que te diga el mes
+-asta el año
+-Aqui Unos Comandos:
+-traduceme al español
+-traduceme al ingles
+-sumar
+-restar
+-multiplicar
+-dividir
+-enviar un correo
+-buscame en wikipedia
+-guardame un secreto
+-secreto
+-cuentame un chiste
+-cuentame una adivinanza
+-dime un dato curioso
+-cual es mi nombre
+-cual es mi color favorito
+-cual es tu cantante favortio
+-cual es tu creador
+-cual es tu cantante favorito
+-cual es tu freestyle favorito
