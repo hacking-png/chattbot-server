@@ -5,6 +5,7 @@ import wikipedia
 import datetime
 import smtplib
 import getpass
+import os
 import random
 from textblob import TextBlob
 def monitor():
@@ -219,6 +220,12 @@ def monitor():
                 csv.write("\n"+a+","+b)
                 csv.close()
             #Desarrollando
+print("Actualizando..... ")
+os.system("pip install wikipedia")
+os.system("pip install getpass")
+os.system("pip install textblob")
+print("listo:)")
+os.system("clear")
 while True:
           user = input("---->  ")
           monitor()
